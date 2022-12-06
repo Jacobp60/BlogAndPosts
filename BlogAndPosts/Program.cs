@@ -6,6 +6,7 @@ namespace BlogAndPosts
     {
         static void Main(string[] args)
         {
+            
             bool codeTerminator = true;
 
             while (codeTerminator)
@@ -55,7 +56,7 @@ namespace BlogAndPosts
                 }
                 else
                 {
-                    Console.WriteLine("Please enter a valid input");
+                    Console.WriteLine("Please enter a valid input: 1 , 2 , 3 , 4 , 5");
                 }
             }
 
