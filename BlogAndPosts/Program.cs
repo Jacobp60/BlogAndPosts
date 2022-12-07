@@ -152,7 +152,7 @@ namespace BlogAndPosts
                 }
                 else if(input == "5")
                 {
-                    Console.WriteLine("Thank you!");
+                    Console.WriteLine("Thank you for using my code!");
                     codeTerminator= false;
                 }
                 else
